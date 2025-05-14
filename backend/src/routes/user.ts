@@ -46,6 +46,4 @@ userRoute.post("/signin" , async (req , res)=>{
       "message":"user do not exist"
     })
   }
-
-
 })
